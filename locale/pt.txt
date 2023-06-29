@@ -1,0 +1,235 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_E2085439_F053_E8FD_41C0_3F37837DF396.source = https://api.whatsapp.com/send?phone=5511959596113
+LinkBehaviour_436AD082_05F8_2E91_416E_E4AACFC1360A.source = https://api.whatsapp.com/send?phone=5511959596113
+LinkBehaviour_E1CFE3E5_F055_2F8A_41B9_CF53FCF915A0.source = https://brazil360tour.com.br/
+WebFrame_D34B82DD_F03D_29B5_41DF_EF9E5BECE7CD.url = https://passeiovirtual360.github.io/SONHAR_COLCHOES_SUL/
+WebFrame_D3898208_F03D_689B_41E4_3936D6D4E455.url = https://thiago360graus.github.io/EXPLOSIVE_SHOP/
+WebFrame_D3EB7DCA_F03D_3B9F_41ED_4F126E9B06A6.url = https://thiago360graus.github.io/johnnie_jack_360/
+WebFrame_26FE798C_0488_1E90_4182_1E1CB370C23A.url = https://whatgpt.com.br/th360/
+WebFrame_208C329D_04B8_32B2_4172_4AF382C2FFB0.url = https://whatgpt.com.br/th360/
+PopupWebFrameBehaviour_EC2A6B8E_F056_DF97_41D4_943575775BEE.url = https://www.google.com/maps/embed?pb=!4v1687668512265!6m8!1m7!1sCAoSLEFGMVFpcE42cGdxcldTX21XbEFqMTNZYmJORWZadXZKZkZZY2JPUFVHQmhJ!2m2!1d-27.59082211903177!2d-48.57790828773705!3f6.622794891369255!4f-1.911344994541082!5f0.4000000000000002
+PopupWebFrameBehaviour_EDBE884C_F057_D89B_41E1_55CAE2D27C95.url = https://www.google.com/maps/embed?pb=!4v1687668872838!6m8!1m7!1sCAoSLEFGMVFpcFBiQmgyVUtQMndSRjJ6T3BiV3lldHVDTE5FWnUwNjZCYk91Z3Nu!2m2!1d-27.58889933019005!2d-48.57840668110627!3f357.06576075091164!4f4.760067911897963!5f0.4000000000000002
+PopupWebFrameBehaviour_ED58BE7E_F057_3977_41E3_0CBEC708781C.url = https://www.google.com/maps/embed?pb=!4v1687668939502!6m8!1m7!1sCAoSLEFGMVFpcE5JWExWYmtxQjBYTmFESWFiS0k5TGRCWHZUTFJjaDlxM2RDdjdJ!2m2!1d-23.5955927!2d-46.5779811!3f13.880634407584683!4f8.112981389416632!5f0.4000000000000002
+LinkBehaviour_E13B564E_F053_2897_41E8_3A74940EF65B.source = https://www.instagram.com/brazil360tour_google/
+VideoUrl_201D7349_025E_60F1_412F_D247D34CEE64.url = //www.youtube.com/embed/p2MCRy47z4M
+VideoUrl_1A7D32C8_01B1_A1F0_4143_8A7C73654828.url = //www.youtube.com/embed/zl5C_C98tIY
+VideoUrl_1A82DB46_01B3_A0F0_4116_B755AED58370.url = //www.youtube.com/embed/NKJaRcpEkBM
+VideoUrl_202F1AA0_0252_61B0_4151_CEE7325E3F50.url = //www.youtube.com/embed/mUZV1MWWxoQ?feature=share
+VideoUrl_1F7CB3C2_0252_67F0_4118_3711B4EB7DA0.url = //www.youtube.com/embed/vmQHGAxuztE?feature=share
+VideoUrl_21E13AC6_025E_61F0_4150_490598DED861.url = //www.youtube.com/embed/xzVkrPGmtBg?feature=share
+
+## E-Learning
+
+### Question Screen
+quizQuestion_833D815F_913F_A2A1_41DA_3A58D071E559.ok = OK
+
+### Report Screen
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.title = - SCORE -
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.completion = Completed
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.questionsCorrect = Correct
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.downloadCSV = Download .csv
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.questionsIncorrect = Incorrect
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.items = Items Found
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.questions = Questions
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.repeat = Repeat
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.submitToLMS = Submit
+quizScore_833BB15F_913F_A2A1_41D7_D7953C726E02.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_833D915E_913F_A2A3_41D9_98F8CC1868CC.title = - TIMEOUT -
+quizTimeout_833D915E_913F_A2A3_41D9_98F8CC1868CC.repeat = Repeat
+quizTimeout_833D915E_913F_A2A3_41D9_98F8CC1868CC.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_F7709368_EF7D_7620_41BC_65684D927D4B.text = ACADEMIA
+HotspotPanoramaOverlayTextImage_957CF41C_8C8D_3537_41B1_7DF845ADE571.text = ATENÇÃO: SOMENTE CLIQUE SE DESEJA SAIR DO ESCRITÓRIO
+HotspotPanoramaOverlayTextImage_B9997F16_A19F_3FB6_41B0_EEF691331E92.text = ATENÇÃO: SOMENTE CLIQUE SE DESEJA SAIR DO ESCRITÓRIO
+HotspotPanoramaOverlayTextImage_E922F00B_F0D2_E89E_41EC_06E5AA84AC96.text = CAFETERIA
+HotspotPanoramaOverlayTextImage_F0929805_EE96_D1E0_41EB_B90A79A70DE8.text = CAFETERIA
+HotspotPanoramaOverlayTextImage_E8A81FBC_F0D5_37FB_41EC_307B84AC6229.text = CASA DE EVENTOS
+HotspotPanoramaOverlayTextImage_F7703368_EF7D_7620_41D2_91B792CC7702.text = CASA DE EVENTOS
+HotspotPanoramaOverlayTextImage_E925300B_F0D2_E89E_41E7_C28F36F0015C.text = COLEGIO INFANTIL
+HotspotPanoramaOverlayTextImage_F140D558_EE96_F260_41EB_9CF389A7ECDF.text = COLEGIO INFANTIL
+HotspotPanoramaOverlayTextImage_CF372248_EE95_5660_41DB_F57D90C36C49.text = POUSADA
+HotspotPanoramaOverlayTextImage_E8ABEFBC_F0D5_37FB_41C3_BDC2E89EA677.text = POUSADA
+HotspotPanoramaOverlayTextImage_CDAA229A_A0F7_EB92_41DE_CB2913DE3984.text = PULAR APRESENTAÇÃO
+HotspotPanoramaOverlayTextImage_E8A85FBD_F0D5_37F5_4188_E1773DAED57A.text = SPA
+HotspotPanoramaOverlayTextImage_F777D368_EF7D_7620_419D_97847F6A5BE2.text = SPA
+HotspotPanoramaOverlayTextImage_D7026A85_FADE_0AED_41E8_BB5577D765A1.text = TOUR VIRTUAL 360º PARA GOOGLE
+HotspotPanoramaOverlayTextImage_F72DC820_EF7E_D220_41E4_FC5F030717EE.text = TOUR VIRTUAL GOOGLE
+HotspotPanoramaOverlayTextImage_D34DF6DB_F1D5_E9BE_41AF_2EB420404D46.text = TOUR VIRTUAL GOOGLE
+HotspotPanoramaOverlayTextImage_EA4CF6B0_F073_298A_41D5_4799DE779C82.text = TOUR VIRTUAL INTERATIVO
+HotspotPanoramaOverlayTextImage_E9A1DA3E_F035_58F7_41B3_17CA7611B638.text = TOUR VIRTUAL INTERATIVO
+HotspotPanoramaOverlayTextImage_C0C3C53B_D6A6_8721_41E8_0E2BD5EB5683.text = TUAL 360º PARA GOOGLE
+HotspotPanoramaOverlayTextImage_C35239A3_D663_8F21_41B9_42F5CE5EBE5C.text = VIDEO IMERSIVO INDOOR
+HotspotPanoramaOverlayTextImage_CDF106DC_EEAD_BE67_41E4_A2775D4B9A2E.text = VIDEO IMERSIVO INDOOR
+HotspotPanoramaOverlayTextImage_E922B00B_F0D2_E89E_41E0_45B1830E924F.text = VIDEO IMERSIVO INDOOR
+
+## Media
+
+### Audio
+audiores_856DC9E4_9E9B_A02D_41CD_AFE897ECE624.mp3Url = media/audio_823FDFAE_9E9A_603A_41D6_6D16BDE5F101_pt.mp3
+
+### Image
+imlevel_4610C707_0588_1390_4187_98F35D25FB70.url = media/panorama_D12D369B_FAEA_1AE5_41B5_F6F497D696BC_HS_0dl5dfjg_pt.png
+imlevel_D136B91A_FADA_17E7_41E9_8E1125B791CC.url = media/panorama_D12D369B_FAEA_1AE5_41B5_F6F497D696BC_HS_1i871cau_pt.png
+imlevel_D133D7D6_FADA_1A6C_41D1_26D8AB1E57DB.url = media/panorama_D12D369B_FAEA_1AE5_41B5_F6F497D696BC_HS_3zoaavry_pt.png
+imlevel_D5124193_FB2E_16E5_41E7_969DFD8806A9.url = media/panorama_D12D369B_FAEA_1AE5_41B5_F6F497D696BC_HS_phy1i2k1_pt.png
+imlevel_D2322F4B_F1D5_D89E_41E5_AF2854DD318F.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_3vw1nlbt_pt.png
+imlevel_D235BF30_F1D5_D88A_41D6_97B2996EBAD4.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_43sy4e0x_pt.png
+imlevel_D233BF68_F1D5_D89A_419A_4DC67D983E03.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_7x5zadv4_pt.png
+imlevel_D232FEF1_F1D5_D98A_41DC_6AC3EE650BAF.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_cprqakjt_pt.png
+imlevel_D234AECF_F1D5_D996_41D4_293324A21EF3.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_rrogqhw3_pt.png
+imlevel_D2326EB2_F1D5_D98F_4198_D0D9C08DC31A.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_ugalgwn4_pt.png
+imlevel_D231B005_F1D5_E895_41D2_4BBA15C55BC8.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_uvforw1c_pt.png
+imlevel_348503F4_0488_1270_4124_1933572B5EA0.url = media/panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE_HS_v5a05bjo_pt.png
+imlevel_D63AB3BF_FB2E_1A1E_41E0_A4F3F338AFC8.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_aq1446d3_pt.png
+imlevel_EDA1B492_F04D_E98F_41EB_74BBCCDA7B0F.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_dkwk27gm_pt.png
+imlevel_EDA6D516_F04D_E8B7_41E5_1137E699B076.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_qmjyp6t5_pt.png
+imlevel_335FC8DF_0588_1EAF_416C_E5A602C37850.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_s0a3umg8_pt.png
+imlevel_EDA614A9_F04D_E99D_41E0_34CDE8B2BF22.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_s6xuock3_pt.png
+imlevel_EDA57548_F04D_E89B_41DC_EBC49E8A3DE2.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_tz2colb1_pt.png
+imlevel_EDA50562_F04D_E88F_41BB_2800CA800904.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_umow3ccf_pt.png
+imlevel_EDA4352E_F04D_E897_41DC_A28197CA1CF4.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_vz7vs4r1_pt.png
+imlevel_EDA774C8_F04D_E99B_41BE_2ED75F730A5E.url = media/panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1_HS_wjmnka4i_pt.png
+imlevel_9D25A18A_EE9B_52E3_41B4_07854AAF391F.url = media/panorama_F7474734_EFBB_7E27_41D8_9F2D616E1B68_HS_w38zqlzc_pt.png
+imlevel_9D230127_EE9B_5221_41EB_0598E36F36AD.url = media/panorama_F7474734_EFBB_7E27_41D8_9F2D616E1B68_HS_ymfpu447_pt.png
+
+### Title
+panorama_D12D369B_FAEA_1AE5_41B5_F6F497D696BC.label = 001
+panorama_D3518F16_F1D5_58B7_41E8_688E6490C0FE.label = 002
+panorama_EA315FAA_F077_F79E_41BE_FAEB5CE4E3B1.label = 003
+video_C0D93239_D21C_A778_41E3_12BF843CF4E8.label = @KABANAH_SPA
+video_8D80F505_9EC0_3ACD_41DB_63CAABC5575B.label = CLIQUE AQUI
+video_887EBB8E_D215_A518_41E2_297C316A8761.label = GOCOFFE 9,16-PRAIA.
+video_DA8982DE_D663_BD63_41E7_E147AD5EDDB4.label = M  GOCOFFE 9,16-PRAIA.
+video_DA88AF0F_D663_84E2_41C5_AF92760230EC.label = M  VIDEO DRONE - POUSADA CANTINHO DO PE
+video_DA8B1400_D663_84DF_41E2_954F722CB863.label = M  VIDEO DRONE @colegiotindolele
+video_DA84BB65_D663_8326_41D2_263A2D747EFC.label = M CASA SAPOTI.
+video_DA8BA67B_D663_8521_41DA_55C4A7CC1381.label = M VIDEO DRONE sprintacademia.V2..
+video_BCB85AD0_EE9E_B660_41E2_39620035164F.label = M VIDEO INSTITUCIONAL 16,9
+video_E5DCFDD3_F0DD_5B8D_41D0_95AADAB9F021.label = MM@KABANAH_SPA~1
+video_E4B57270_F0DD_288A_41D7_7615AEF82740.label = MMCASA SAPOTI.~1
+video_E4B4549F_F0DD_29B6_41B7_07CAB16A2503.label = MMGOCOFFE 9,16-PRAIA.~1
+video_E4B4B6A0_F0DD_298B_41E9_83B7CFD978A9.label = MMVIDEO DRONE - POUSADA CANTINHO DO PE~1
+video_E4B568D7_F0DD_39B5_41C3_DE0500BB1C7E.label = MMVIDEO DRONE @colegiotindolele~1
+video_E4B5DB09_F0DD_389D_41B7_FDBBE3C97CD7.label = MMVIDEO DRONE sprintacademia.V2..~1
+panorama_F7474734_EFBB_7E27_41D8_9F2D616E1B68.label = RECEPÇÃO
+video_B824D43C_A187_21F4_41D9_2564E05C37CA.label = RECEPÇÃO 01
+video_8C02BB06_9E40_0ECF_41DD_C49DB2A7567E.label = SECRETARIA
+video_BED36FE9_A281_5E9D_41DE_891D7E5A6E1D.label = SECRETARIA 2 PANO
+video_C39AD08C_D21C_E318_41D4_3AAEF804CC17.label = VIDEO DRONE - POUSADA CANTINHO DO PE
+video_C3A1788A_D21C_E319_41D0_BD8DD285ECDC.label = VIDEO DRONE sprintacademia.V2..
+video_C0467813_F96A_35E5_41E4_7C4670525F75.label = VIDEO INSTITUCIONAL 16,9 COM AUDIO
+
+### Video
+videolevel_08904068_0587_9DBA_4179_DEAD6DA81439.posterURL = media/video_887EBB8E_D215_A518_41E2_297C316A8761_poster_pt.jpg
+videolevel_08904068_0587_9DBA_4179_DEAD6DA81439.url = media/video_887EBB8E_D215_A518_41E2_297C316A8761_pt.mp4
+videolevel_08B00485_0587_E56A_4167_F043CD371A24.posterURL = media/video_8C02BB06_9E40_0ECF_41DD_C49DB2A7567E_poster_pt.jpg
+videolevel_08B00485_0587_E56A_4167_F043CD371A24.url = media/video_8C02BB06_9E40_0ECF_41DD_C49DB2A7567E_pt.mp4
+videolevel_08B244CA_0587_E6FE_4190_9F814EA149CC.posterURL = media/video_8D80F505_9EC0_3ACD_41DB_63CAABC5575B_poster_pt.jpg
+videolevel_08B244CA_0587_E6FE_4190_9F814EA149CC.url = media/video_8D80F505_9EC0_3ACD_41DB_63CAABC5575B_pt.mp4
+videolevel_08963FDB_0587_A29D_4191_2D34E5294E08.posterURL = media/video_B824D43C_A187_21F4_41D9_2564E05C37CA_poster_pt.jpg
+videolevel_08963FDB_0587_A29D_4191_2D34E5294E08.url = media/video_B824D43C_A187_21F4_41D9_2564E05C37CA_pt.mp4
+videolevel_08A382B3_0587_E2AD_416F_BFF061C45A93.posterURL = media/video_BCB85AD0_EE9E_B660_41E2_39620035164F_poster_pt.jpg
+videolevel_08A382B3_0587_E2AD_416F_BFF061C45A93.url = media/video_BCB85AD0_EE9E_B660_41E2_39620035164F_pt.mp4
+videolevel_0BE8DF3B_0587_A39D_418C_C0E497D7741B.posterURL = media/video_BED36FE9_A281_5E9D_41DE_891D7E5A6E1D_poster_pt.jpg
+videolevel_0BE8DF3B_0587_A39D_418C_C0E497D7741B.url = media/video_BED36FE9_A281_5E9D_41DE_891D7E5A6E1D_pt.mp4
+videolevel_08BC4508_0587_E77A_418F_FC6DD57ACE28.posterURL = media/video_C0467813_F96A_35E5_41E4_7C4670525F75_poster_pt.jpg
+videolevel_08BC4508_0587_E77A_418F_FC6DD57ACE28.url = media/video_C0467813_F96A_35E5_41E4_7C4670525F75_pt.mp4
+videolevel_08900025_0587_9DB5_4194_13F5528FECBA.posterURL = media/video_C0D93239_D21C_A778_41E3_12BF843CF4E8_poster_pt.jpg
+videolevel_08900025_0587_9DB5_4194_13F5528FECBA.url = media/video_C0D93239_D21C_A778_41E3_12BF843CF4E8_pt.mp4
+videolevel_089310A5_0587_9EB5_418A_377FEFD4E21D.posterURL = media/video_C39AD08C_D21C_E318_41D4_3AAEF804CC17_poster_pt.jpg
+videolevel_089310A5_0587_9EB5_418A_377FEFD4E21D.url = media/video_C39AD08C_D21C_E318_41D4_3AAEF804CC17_pt.mp4
+videolevel_0892A0EC_0587_9EBA_418F_B4DCBE8612C8.posterURL = media/video_C3A1788A_D21C_E319_41D0_BD8DD285ECDC_poster_pt.jpg
+videolevel_0892A0EC_0587_9EBA_418F_B4DCBE8612C8.url = media/video_C3A1788A_D21C_E319_41D0_BD8DD285ECDC_pt.mp4
+videolevel_089CC13E_0587_9F96_4179_CC0C46847B9D.posterURL = media/video_DA84BB65_D663_8326_41D2_263A2D747EFC_poster_pt.jpg
+videolevel_089CC13E_0587_9F96_4179_CC0C46847B9D.url = media/video_DA84BB65_D663_8326_41D2_263A2D747EFC_pt.mp4
+videolevel_0899B193_0587_9F6E_411E_12929ABD2850.posterURL = media/video_DA88AF0F_D663_84E2_41C5_AF92760230EC_poster_pt.jpg
+videolevel_0899B193_0587_9F6E_411E_12929ABD2850.url = media/video_DA88AF0F_D663_84E2_41C5_AF92760230EC_pt.mp4
+videolevel_089A01DA_0587_9E9E_4191_5C953362D415.posterURL = media/video_DA8982DE_D663_BD63_41E7_E147AD5EDDB4_poster_pt.jpg
+videolevel_089A01DA_0587_9E9E_4191_5C953362D415.url = media/video_DA8982DE_D663_BD63_41E7_E147AD5EDDB4_pt.mp4
+videolevel_08A4C228_0587_9DBB_4171_7B8194FF25EA.posterURL = media/video_DA8B1400_D663_84DF_41E2_954F722CB863_poster_pt.jpg
+videolevel_08A4C228_0587_9DBB_4171_7B8194FF25EA.url = media/video_DA8B1400_D663_84DF_41E2_954F722CB863_pt.mp4
+videolevel_08A1A27A_0587_9D9E_4190_0E0107564351.posterURL = media/video_DA8BA67B_D663_8521_41DA_55C4A7CC1381_poster_pt.jpg
+videolevel_08A1A27A_0587_9D9E_4190_0E0107564351.url = media/video_DA8BA67B_D663_8521_41DA_55C4A7CC1381_pt.mp4
+videolevel_08A9937C_0587_E39A_4169_83ABE0D36D35.posterURL = media/video_E4B4549F_F0DD_29B6_41B7_07CAB16A2503_poster_pt.jpg
+videolevel_08A9937C_0587_E39A_4169_83ABE0D36D35.url = media/video_E4B4549F_F0DD_29B6_41B7_07CAB16A2503_pt.mp4
+videolevel_08ABF3B8_0587_E29A_4182_97B0563FFC92.posterURL = media/video_E4B4B6A0_F0DD_298B_41E9_83B7CFD978A9_poster_pt.jpg
+videolevel_08ABF3B8_0587_E29A_4182_97B0563FFC92.url = media/video_E4B4B6A0_F0DD_298B_41E9_83B7CFD978A9_pt.mp4
+videolevel_08B5E3F0_0587_E2AA_417B_51E3D8107EBC.posterURL = media/video_E4B568D7_F0DD_39B5_41C3_DE0500BB1C7E_poster_pt.jpg
+videolevel_08B5E3F0_0587_E2AA_417B_51E3D8107EBC.url = media/video_E4B568D7_F0DD_39B5_41C3_DE0500BB1C7E_pt.mp4
+videolevel_08AF833E_0587_E397_4187_A2C0B2EC389B.posterURL = media/video_E4B57270_F0DD_288A_41D7_7615AEF82740_poster_pt.jpg
+videolevel_08AF833E_0587_E397_4187_A2C0B2EC389B.url = media/video_E4B57270_F0DD_288A_41D7_7615AEF82740_pt.mp4
+videolevel_08B7C439_0587_E59D_4187_CF17ACC8CD24.posterURL = media/video_E4B5DB09_F0DD_389D_41B7_FDBBE3C97CD7_poster_pt.jpg
+videolevel_08B7C439_0587_E59D_4187_CF17ACC8CD24.url = media/video_E4B5DB09_F0DD_389D_41B7_FDBBE3C97CD7_pt.mp4
+videolevel_08AD82F4_0587_E2AA_4192_48780780FD27.posterURL = media/video_E5DCFDD3_F0DD_5B8D_41D0_95AADAB9F021_poster_pt.jpg
+videolevel_08AD82F4_0587_E2AA_4192_48780780FD27.url = media/video_E5DCFDD3_F0DD_5B8D_41D0_95AADAB9F021_pt.mp4
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_1F6C1DED_0252_A3B0_4150_F8D74D6E0304.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_D389B207_F03D_6895_41A3_6C526AA41F1F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_D34BC2DD_F03D_29B5_41C1_588EFDAD18DC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_19FF8877_01B2_E090_4142_926CDB719C23.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_19DBE5EE_01B2_63B0_4100_AC2FA8918D00.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_1F4CBF99_0252_9F90_4150_6EE508B58740.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_D3EB4DCA_F03D_3B9F_41E9_9375D21CE035.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_1F3C7D12_0252_A090_4150_38F7E780D293.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_1FFBA979_0252_E090_412A_6BF3089BB778.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_206D2952_0251_E090_4143_DF49D5ED9158.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_20DD7254_0251_A090_4132_E9B1D297D990.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_27907C96_0488_F6B0_4189_A3DAC06BB3F3.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_26BD7C8A_048B_F690_415E_432BEF4208CF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_26BD4C8A_048B_F690_418C_D58D459AC618.title = CLIQUE NO BOTÃO 
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = AMBIENTES
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = AMBIENTES
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = PERGUNTE A SECRETARIA
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = PERGUNTE A SECRETARIA
+
+### Image
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile_pt.png
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_pt.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile_pt.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_pt.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile_pt.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_pt.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile_pt.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_pt.png
+Image_413D6716_05F8_13B1_4171_4D0672647612.url = skin/Image_413D6716_05F8_13B1_4171_4D0672647612_pt.png
+Image_471EBEE2_05F8_1290_417C_B98707BCA8F6.url = skin/Image_471EBEE2_05F8_1290_417C_B98707BCA8F6_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_pt.png
+
+### Multiline Text
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:3.907380607814762vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:3.91vmin;font-family:'Exo';"><B><I>BRAZIL 360 TOUR </I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:3.907380607814762vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:3.91vmin;font-family:'Exo';"><B><I>ESCRITORIO VIRTUAL 360º</I></B></SPAN></SPAN></DIV></div>
+HTMLText_4EF5C34F_7FCE_2159_41D1_9829A87E30A9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:17px;font-family:'Exo';"><B><I>BRAZIL 360 TOUR </I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Exo';"><B><I>ESCRITORIO VIRTUAL 360º</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ESCRITORIO 360 MARCO
